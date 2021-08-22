@@ -1,4 +1,4 @@
-first run 
+first run from a cmd inside of the project folder
 
 npm start
 
